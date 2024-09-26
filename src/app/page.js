@@ -73,7 +73,7 @@ export default function Home() {
           </p>
         </section>
 
-        <section className="flex flex-col gap-4">
+        <section className="flex flex-col gap-4" id="projects">
           <div className="flex gap-2">
             <Code size={36} className="text-green-600" />
             <h2 className="text-4xl font-bold select-none">Projects</h2>

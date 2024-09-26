@@ -6,8 +6,7 @@ export default function Navbar() {
   return (
     <nav className="flex justify-center gap-8 p-8 w-full text-lg">
       <Link
-        href="https://github.com/efe-celik"
-        target="_blank"
+        href="#projects"
         className="transition-all duration-300 hover:scale-110 hover:text-green-500"
       >
         Projects
